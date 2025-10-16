@@ -13,14 +13,14 @@ Le problème est inspiré du Jour de la Serviette (25 mai), en hommage à Dougla
 Le projet est écrit en C++, avec une approche brute-force reposant sur trois boucles imbriquées pour tester tous les triplets possibles.
 Une fonction verifierCaractere() (version courte et concise fournie par ChatGPT) vérifie si une valeur numérique ne contient que des chiffres 2 et 4.
 # Remarques 
--Complexité : O(n³).
--Fonctionne correctement pour n < 100.
--Pour n = 1000, l’exécution devient lente, mais correcte.
--Toute optimisation algorithmique est la bienvenue ! 🚀
+Complexité : O(n³).
+Fonctionne correctement pour n < 100.
+Pour n = 1000, l’exécution devient lente, mais correcte.
+Toute optimisation algorithmique est la bienvenue ! 🚀
 
  # Installation 
 ```
-git clone
+git clone https://github.com/Beni1707/Le-jour-de-la-serviette-.git
 ```
 # compiler 
 ```
