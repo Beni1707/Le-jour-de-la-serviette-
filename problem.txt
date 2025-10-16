@@ -1,0 +1,15 @@
+
+Le 25 mai prochain, ce sera le Jour de la Serviette.
+
+Pour célébrer cette fête, vous décidez de confectionner une serviette brodée d'une petite énigme.
+ Vous recherchez 3 nombres entiers, tous plus petits que 1000, tels que la somme des trois, ainsi que le produit des trois, ne s'écrivent qu'avec des 4 et des 2.
+
+Vous suspectez qu'il y a pas mal de tels triplet, car manuellement, vous avez pu trouver (18, 74, 332). 
+En effet, la somme des trois nombres donne 424 et le produit des trois nombres donne 442224. Uniquement des 2 et des 4... Magnifique !
+
+Parmi tous les triplets qui fonctionnent, quel est celui pour lequel les trois nombres de départ contiennent le plus de 4 ? 
+(l'exemple précédent n'en a qu'un seul, dans 74).
+
+Donnez les trois nombres trouvés dans l'ordre croissant ainsi :
+
+18, 74, 332
